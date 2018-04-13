@@ -41,8 +41,6 @@ public class IndicatorDots extends LinearLayout {
 
     private int mDotDiameter;
     private int mDotSpacing;
-    //    private int mFillDrawable;
-//    private int mEmptyDrawable;
     private int mPinLength = DEFAULT_PIN_LENGTH;
     private int mIndicatorType;
     private int mPrimaryColor;
@@ -187,5 +185,8 @@ public class IndicatorDots extends LinearLayout {
         mPrimaryColor = primaryColor;
         mEmptyDrawable.setStroke(3, primaryColor);
         mFillDrawable.setColor(primaryColor);
+
+        removeAllViews();
+        initView(getContext());
     }
 }
