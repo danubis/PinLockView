@@ -52,8 +52,7 @@ public class SampleActivity extends AppCompatActivity {
         //mPinLockView.enableLayoutShuffling();
 
         mPinLockView.setPinLength(4);
-        mPinLockView.setTextColor(ContextCompat.getColor(this, R.color.white));
-
+        mPinLockView.setPrimaryColor(ContextCompat.getColor(this, R.color.white));
         mIndicatorDots.setIndicatorType(IndicatorDots.IndicatorType.FIXED);
     }
 }

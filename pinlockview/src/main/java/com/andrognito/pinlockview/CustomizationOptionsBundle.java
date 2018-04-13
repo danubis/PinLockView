@@ -10,6 +10,7 @@ import android.graphics.drawable.Drawable;
  */
 public class CustomizationOptionsBundle {
 
+    private int primaryColor;
     private int textColor;
     private int textSize;
     private int buttonSize;
@@ -20,6 +21,14 @@ public class CustomizationOptionsBundle {
     private int deleteButtonPressesColor;
 
     public CustomizationOptionsBundle() {
+    }
+
+    public int getPrimaryColor() {
+        return primaryColor;
+    }
+
+    public void setPrimaryColor(int primaryColor) {
+        this.primaryColor = primaryColor;
     }
 
     public int getTextColor() {

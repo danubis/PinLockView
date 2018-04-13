@@ -72,7 +72,7 @@ public class PinLockAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder
             }
 
             if (mCustomizationOptionsBundle != null) {
-                holder.mNumberButton.setTextColor(mCustomizationOptionsBundle.getTextColor());
+                holder.mNumberButton.setTextColor(mCustomizationOptionsBundle.getPrimaryColor());
                 if (mCustomizationOptionsBundle.getButtonBackgroundDrawable() != null) {
                     if (Build.VERSION.SDK_INT < android.os.Build.VERSION_CODES.JELLY_BEAN) {
                         holder.mNumberButton.setBackgroundDrawable(
@@ -99,7 +99,7 @@ public class PinLockAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder
                 if (mCustomizationOptionsBundle.getDeleteButtonDrawable() != null) {
                     holder.mButtonImage.setImageDrawable(mCustomizationOptionsBundle.getDeleteButtonDrawable());
                 }
-                holder.mButtonImage.setColorFilter(mCustomizationOptionsBundle.getTextColor(),
+                holder.mButtonImage.setColorFilter(mCustomizationOptionsBundle.getPrimaryColor(),
                         PorterDuff.Mode.SRC_ATOP);
                 LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(
                         mCustomizationOptionsBundle.getDeleteButtonSize(),
@@ -224,28 +224,18 @@ public class PinLockAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder
                     }
                 });
 
-                mDeleteButton.setOnTouchListener(new View.OnTouchListener() {
-                    private Rect rect;
-
-                    @Override
-                    public boolean onTouch(View v, MotionEvent event) {
-                        if (event.getAction() == MotionEvent.ACTION_DOWN) {
-                            mButtonImage.setColorFilter(mCustomizationOptionsBundle
-                                    .getDeleteButtonPressesColor());
-                            rect = new Rect(v.getLeft(), v.getTop(), v.getRight(), v.getBottom());
-                        }
-                        if (event.getAction() == MotionEvent.ACTION_UP) {
-                            mButtonImage.clearColorFilter();
-                        }
-                        if (event.getAction() == MotionEvent.ACTION_MOVE) {
-                            if (!rect.contains(v.getLeft() + (int) event.getX(),
-                                    v.getTop() + (int) event.getY())) {
-                                mButtonImage.clearColorFilter();
-                            }
-                        }
-                        return false;
-                    }
-                });
+//                mDeleteButton.setOnTouchListener(new View.OnTouchListener() {
+//                    @Override
+//                    public boolean onTouch(View v, MotionEvent event) {
+//                        if (event.getAction() == MotionEvent.ACTION_DOWN) {
+//                            v.setAlpha(0.5f);
+//                        }
+//                        if (event.getAction() == MotionEvent.ACTION_UP) {
+//                            v.setAlpha(1f);
+//                        }
+//                        return false;
+//                    }
+//                });
             }
         }
     }

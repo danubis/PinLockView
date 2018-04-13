@@ -9,7 +9,175 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebaf6cd9-fcf8-4942-a47a-ff8a2fd54448" name="Default" comment="" />
+    <list default="true" id="ebaf6cd9-fcf8-4942-a47a-ff8a2fd54448" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/assetWizardSettings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pinlockview/src/main/res/drawable/ic_backspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pinlockview/src/main/res/drawable/ic_backspace_normal.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pinlockview/src/main/res/drawable/ic_backspace_pressed.xml" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/jarAnalysis.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/javaCompile.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/taskJars.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/compat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/compat/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreui/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreui/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreutils/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/coreutils/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/fragment/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/fragment/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/graphics/drawable/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/graphics/drawable/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/andrognito/pinlockview/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/andrognito/pinlockview/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/andrognito/pinlockviewapp/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/andrognito/pinlockviewapp/R.java" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_dot_empty.xml.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_dot_empty.xml.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable_ic_backspace.png.flat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/andrognito/pinlockviewapp/SampleActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/andrognito/pinlockviewapp/SampleActivity.java" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/build/generated/source/r/debug/android/support/compat/R.java" afterPath="$PROJECT_DIR$/pinlockview/build/generated/source/r/debug/android/support/compat/R.java" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/build/generated/source/r/debug/android/support/coreui/R.java" afterPath="$PROJECT_DIR$/pinlockview/build/generated/source/r/debug/android/support/coreui/R.java" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/build/generated/source/r/debug/android/support/coreutils/R.java" afterPath="$PROJECT_DIR$/pinlockview/build/generated/source/r/debug/android/support/coreutils/R.java" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/build/generated/source/r/debug/android/support/fragment/R.java" afterPath="$PROJECT_DIR$/pinlockview/build/generated/source/r/debug/android/support/fragment/R.java" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/build/generated/source/r/debug/android/support/graphics/drawable/R.java" afterPath="$PROJECT_DIR$/pinlockview/build/generated/source/r/debug/android/support/graphics/drawable/R.java" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" afterPath="$PROJECT_DIR$/pinlockview/build/generated/source/r/debug/android/support/graphics/drawable/animated/R.java" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/pinlockview/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" afterPath="$PROJECT_DIR$/pinlockview/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/build/generated/source/r/debug/com/andrognito/pinlockview/R.java" afterPath="$PROJECT_DIR$/pinlockview/build/generated/source/r/debug/com/andrognito/pinlockview/R.java" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/pinlockview/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/pinlockview/build/intermediates/incremental/packageDebugResources/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/build/intermediates/packaged_res/debug/drawable/dot_empty.xml" afterPath="$PROJECT_DIR$/pinlockview/build/intermediates/packaged_res/debug/drawable/dot_empty.xml" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/build/intermediates/packaged_res/debug/drawable/ic_backspace.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/build/intermediates/packaged_res/debug/values/values.xml" afterPath="$PROJECT_DIR$/pinlockview/build/intermediates/packaged_res/debug/values/values.xml" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/pinlockview/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/pinlockview/build/intermediates/symbols/debug/R.txt" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/CustomizationOptionsBundle.java" afterPath="$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/CustomizationOptionsBundle.java" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/IndicatorDots.java" afterPath="$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/IndicatorDots.java" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/PinLockAdapter.java" afterPath="$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/PinLockAdapter.java" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/PinLockView.java" afterPath="$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/PinLockView.java" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/src/main/res/drawable/dot_empty.xml" afterPath="$PROJECT_DIR$/pinlockview/src/main/res/drawable/dot_empty.xml" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/src/main/res/drawable/ic_backspace.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/pinlockview/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/pinlockview/src/main/res/values/colors.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,57 +200,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SampleActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SampleActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/andrognito/pinlockviewapp/SampleActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="48" column="31" lean-forward="false" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
+            <state relative-caret-position="259">
+              <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PinLockView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/PinLockView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2201">
-              <caret line="210" column="17" lean-forward="false" selection-start-line="210" selection-start-column="17" selection-end-line="210" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IndicatorDots.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/IndicatorDots.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-731">
-              <caret line="62" column="48" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_sample.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_sample.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="attrs.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pinlockview/src/main/res/values/attrs.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -3103,15 +3228,23 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/pinlockview/src/main/res/values/attrs.xml" />
-        <option value="$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/IndicatorDots.java" />
         <option value="$PROJECT_DIR$/pinlockview/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_sample.xml" />
+        <option value="$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/CustomizationOptionsBundle.java" />
+        <option value="$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/PinLockView.java" />
+        <option value="$PROJECT_DIR$/pinlockview/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/pinlockview/src/main/res/drawable/dot_empty.xml" />
+        <option value="$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/IndicatorDots.java" />
+        <option value="$PROJECT_DIR$/pinlockview/src/main/res/drawable/ic_backspace.xml" />
+        <option value="$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/PinLockAdapter.java" />
+        <option value="$PROJECT_DIR$/pinlockview/build/intermediates/packaged_res/debug/drawable-anydpi-v21/ic_backspace_pressed.xml" />
+        <option value="$PROJECT_DIR$/pinlockview/src/main/res/drawable/ic_backspace_pressed.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/andrognito/pinlockviewapp/SampleActivity.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1920" />
+    <option name="x" value="-1921" />
     <option name="y" value="-257" />
     <option name="width" value="1920" />
     <option name="height" value="1057" />
@@ -3145,7 +3278,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -3227,6 +3360,23 @@
             </path>
             <path>
               <item name="PinLockView" type="1abcf292:AndroidViewProjectNode" />
+              <item name="pinlockview" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="PinLockView" type="1abcf292:AndroidViewProjectNode" />
+              <item name="pinlockview" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="PinLockView" type="1abcf292:AndroidViewProjectNode" />
+              <item name="pinlockview" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
+            </path>
+            <path>
+              <item name="PinLockView" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
             </path>
           </expand>
@@ -3240,6 +3390,16 @@
               <item name="PinLockView" type="b2602c69:ProjectViewProjectNode" />
               <item name="PinLockView" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="PinLockView" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PinLockView" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="PinLockView" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PinLockView" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="pinlockview" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -3251,6 +3411,14 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="device.picker.selection" value="FA69G0305251" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pinlockview/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/pinlockview" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -3431,7 +3599,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-257" width="1920" height="1057" extended-state="0" />
+    <frame x="-1921" y="-257" width="1920" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -3447,12 +3616,12 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.456869" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6048988" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6048988" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19062833" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15069222" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Android WiFi ADB" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Fabric" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -3556,7 +3725,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/PinLockAdapter.java">
+    <entry file="file://$PROJECT_DIR$/pinlockview/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -3564,28 +3733,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/andrognito/pinlockviewapp/SampleActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="48" column="31" lean-forward="false" selection-start-line="48" selection-start-column="31" selection-end-line="48" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/PinLockView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2201">
-          <caret line="210" column="17" lean-forward="false" selection-start-line="210" selection-start-column="17" selection-end-line="210" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/IndicatorDots.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-731">
-          <caret line="62" column="48" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -3595,17 +3754,332 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
+        <state relative-caret-position="545">
           <caret line="38" column="17" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-27/android.jar!/android/view/ViewGroup.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="412" column="16" lean-forward="false" selection-start-line="412" selection-start-column="16" selection-end-line="412" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-27/android.jar!/android/graphics/drawable/Drawable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="117" column="48" lean-forward="false" selection-start-line="117" selection-start-column="48" selection-end-line="117" selection-end-column="48" />
+          <folding>
+            <marker date="1512106711687" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1512106711687" expanded="false" signature="149:723" ph="..." />
+            <marker date="1512106711687" expanded="false" signature="779:790" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="826:832" ph=" }" />
+            <marker date="1512106711687" expanded="true" signature="947:999" ph="{...}" />
+            <marker date="1512106711687" expanded="false" signature="1039:1050" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="1086:1092" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="1139:1150" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="1186:1192" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="1228:1239" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="1275:1281" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="1316:1327" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="1363:1369" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="1403:1414" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="1450:1456" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="1512:1523" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="1559:1565" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="1609:1620" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="1656:1662" ph=" }" />
+            <marker date="1512106711687" expanded="true" signature="1668:1686" ph="/**...*/" />
+            <marker date="1512106711687" expanded="false" signature="1744:1755" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="1791:1797" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="1846:1857" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="1893:1899" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="1936:1947" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="1983:1989" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="2046:2057" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="2093:2099" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="2143:2154" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="2190:2196" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="2230:2241" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="2277:2283" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="2339:2350" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="2386:2392" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="2439:2450" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="2486:2492" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="2529:2540" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="2576:2582" ph=" }" />
+            <marker date="1512106711687" expanded="true" signature="2649:2701" ph="{...}" />
+            <marker date="1512106711687" expanded="true" signature="2768:2820" ph="{...}" />
+            <marker date="1512106711687" expanded="false" signature="2893:2904" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="2940:2946" ph=" }" />
+            <marker date="1512106711687" expanded="true" signature="3060:3071" ph=" { " />
+            <marker date="1512106711687" expanded="true" signature="3107:3113" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="3153:3164" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="3200:3206" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="3256:3267" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="3303:3309" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="3353:3364" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="3400:3406" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="3447:3458" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="3494:3500" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="3536:3547" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="3583:3589" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="3635:3646" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="3682:3688" ph=" }" />
+            <marker date="1512106711687" expanded="true" signature="3765:3817" ph="{...}" />
+            <marker date="1512106711687" expanded="false" signature="3865:3876" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="3912:3918" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="3951:3962" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="3998:4004" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="4049:4060" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="4096:4102" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="4131:4142" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="4178:4184" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="4222:4233" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="4269:4275" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="4309:4320" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="4356:4362" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="4408:4419" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="4455:4461" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="4494:4505" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="4541:4547" ph=" }" />
+            <marker date="1512106711687" expanded="true" signature="4613:4665" ph="{...}" />
+            <marker date="1512106711687" expanded="false" signature="4703:4714" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="4750:4756" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="4807:4818" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="4854:4860" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="4897:4908" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="4944:4950" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="4987:4998" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="5034:5040" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="5076:5087" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="5123:5129" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="5224:5235" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="5271:5277" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="5319:5330" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="5366:5372" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="5422:5433" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="5469:5475" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="5523:5534" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="5570:5576" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="5624:5635" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="5671:5677" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="5713:5724" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="5760:5766" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="5803:5814" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="5850:5856" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="5890:5901" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="5937:5943" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="5978:5989" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="6025:6031" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="6076:6087" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="6123:6129" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="6174:6185" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="6221:6227" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="6257:6268" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="6304:6310" ph=" }" />
+            <marker date="1512106711687" expanded="true" signature="6388:6440" ph="{...}" />
+            <marker date="1512106711687" expanded="true" signature="6559:6611" ph="{...}" />
+            <marker date="1512106711687" expanded="true" signature="6744:6796" ph="{...}" />
+            <marker date="1512106711687" expanded="true" signature="6917:6969" ph="{...}" />
+            <marker date="1512106711687" expanded="true" signature="7103:7155" ph="{...}" />
+            <marker date="1512106711687" expanded="true" signature="7301:7353" ph="{...}" />
+            <marker date="1512106711687" expanded="true" signature="7512:7564" ph="{...}" />
+            <marker date="1512106711687" expanded="false" signature="7624:7635" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="7671:7677" ph=" }" />
+            <marker date="1512106711687" expanded="true" signature="7801:7853" ph="{...}" />
+            <marker date="1512106711687" expanded="true" signature="7990:8042" ph="{...}" />
+            <marker date="1512106711687" expanded="false" signature="8096:8107" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="8143:8149" ph=" }" />
+            <marker date="1512106711687" expanded="true" signature="8198:8744" ph="{...}" />
+            <marker date="1512106711687" expanded="false" signature="8230:8245" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="8281:8291" ph=" }" />
+            <marker date="1512106711687" expanded="false" signature="8392:8407" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="8443:8453" ph=" }" />
+            <marker date="1512106711687" expanded="true" signature="8519:8579" ph="{...}" />
+            <marker date="1512106711687" expanded="false" signature="8677:8692" ph=" { " />
+            <marker date="1512106711687" expanded="false" signature="8728:8738" ph=" }" />
+            <marker date="1512106711687" expanded="true" signature="8776:8968" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-27/android.jar!/android/graphics/PorterDuff.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinlockview/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinlockview/src/main/res/layout/layout_number_item.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-27/android.jar!/android/graphics/drawable/shapes/OvalShape.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Android/sdk/platforms/android-27/android.jar!/android/graphics/drawable/GradientDrawable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="58" column="16" lean-forward="false" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinlockview/src/main/res/drawable/dot_empty.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="65" lean-forward="false" selection-start-line="3" selection-start-column="65" selection-end-line="3" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinlockview/src/main/res/drawable/dot_filled.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/IndicatorDots.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="683">
+          <caret line="183" column="5" lean-forward="false" selection-start-line="183" selection-start-column="5" selection-end-line="183" selection-end-column="5" />
+          <folding>
+            <element signature="e#2223#2297#0" expanded="false" />
+            <element signature="e#2394#2467#0" expanded="false" />
+            <element signature="e#5912#5913#0" expanded="false" />
+            <element signature="e#5964#5965#0" expanded="false" />
+            <element signature="e#6007#6008#0" expanded="false" />
+            <element signature="e#6058#6059#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pinlockview/src/main/res/values/attrs.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        <state relative-caret-position="150">
+          <caret line="10" column="58" lean-forward="true" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinlockview/src/main/res/drawable/ic_backspace.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinlockview/src/main/res/layout/layout_delete_item.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="15" lean-forward="true" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinlockview/build/intermediates/packaged_res/debug/drawable-anydpi-v21/ic_backspace_pressed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinlockview/src/main/res/drawable/ic_backspace_normal.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/CustomizationOptionsBundle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="69" column="24" lean-forward="false" selection-start-line="69" selection-start-column="24" selection-end-line="69" selection-end-column="24" />
+          <folding>
+            <element signature="e#2240#2241#0" expanded="false" />
+            <element signature="e#2287#2288#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinlockview/src/main/res/drawable/ic_backspace.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinlockview/src/main/res/drawable/ic_backspace_pressed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/PinLockAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="222" column="36" lean-forward="false" selection-start-line="222" selection-start-column="36" selection-end-line="222" selection-end-column="36" />
+          <folding>
+            <element signature="class#NumberViewHolder#0;class#PinLockAdapter#0" expanded="false" />
+            <element signature="e#7904#8210#0" expanded="false" />
+            <element signature="e#8209#8210#0" expanded="false" />
+            <element signature="e#8267#8625#0" expanded="false" />
+            <element signature="e#8624#8625#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinlockview/src/main/java/com/andrognito/pinlockview/PinLockView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="220" column="25" lean-forward="false" selection-start-line="220" selection-start-column="25" selection-end-line="220" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/andrognito/pinlockviewapp/SampleActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="18" column="41" lean-forward="true" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -3,11 +3,19 @@ package com.andrognito.pinlockview;
 import android.animation.LayoutTransition;
 import android.content.Context;
 import android.content.res.TypedArray;
+import android.graphics.PorterDuff;
+import android.graphics.drawable.Drawable;
+import android.graphics.drawable.GradientDrawable;
+import android.graphics.drawable.ShapeDrawable;
+import android.graphics.drawable.shapes.OvalShape;
+import android.graphics.drawable.shapes.Shape;
 import android.support.annotation.IntDef;
+import android.support.v4.content.ContextCompat;
 import android.support.v4.view.ViewCompat;
 import android.util.AttributeSet;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 
 import java.lang.annotation.Retention;
@@ -33,10 +41,12 @@ public class IndicatorDots extends LinearLayout {
 
     private int mDotDiameter;
     private int mDotSpacing;
-    private int mFillDrawable;
-    private int mEmptyDrawable;
+    //    private int mFillDrawable;
+//    private int mEmptyDrawable;
     private int mPinLength = DEFAULT_PIN_LENGTH;
     private int mIndicatorType;
+    private int mPrimaryColor;
+    private GradientDrawable mFillDrawable, mEmptyDrawable;
 
     private int mPreviousLength;
 
@@ -56,13 +66,16 @@ public class IndicatorDots extends LinearLayout {
         try {
             mDotDiameter = (int) typedArray.getDimension(R.styleable.IndicatorDots_dotDiameter, ResourceUtils.getDimensionInPx(getContext(), R.dimen.default_dot_diameter));
             mDotSpacing = (int) typedArray.getDimension(R.styleable.IndicatorDots_dotSpacing, ResourceUtils.getDimensionInPx(getContext(), R.dimen.default_dot_spacing));
-            mFillDrawable = typedArray.getResourceId(R.styleable.IndicatorDots_dotFilledBackground,
+            int mFillDrawableRes = typedArray.getResourceId(R.styleable.IndicatorDots_dotFilledBackground,
                     R.drawable.dot_filled);
-            mEmptyDrawable = typedArray.getResourceId(R.styleable.IndicatorDots_dotEmptyBackground,
+            int mEmptyDrawableRes = typedArray.getResourceId(R.styleable.IndicatorDots_dotEmptyBackground,
                     R.drawable.dot_empty);
+            mFillDrawable = (GradientDrawable) ContextCompat.getDrawable(context, mFillDrawableRes);
+            mEmptyDrawable = (GradientDrawable) ContextCompat.getDrawable(context, mEmptyDrawableRes);
 //            mPinLength = typedArray.getInt(R.styleable.IndicatorDots_pinLength, DEFAULT_PIN_LENGTH);
             mIndicatorType = typedArray.getInt(R.styleable.IndicatorDots_indicatorType,
                     IndicatorType.FIXED);
+            mPrimaryColor = ResourceUtils.getColor(getContext(), R.color.white);
         } finally {
             typedArray.recycle();
         }
@@ -74,7 +87,7 @@ public class IndicatorDots extends LinearLayout {
         ViewCompat.setLayoutDirection(this, ViewCompat.LAYOUT_DIRECTION_LTR);
         if (mIndicatorType == 0) {
             for (int i = 0; i < mPinLength; i++) {
-                View dot = new View(context);
+                ImageView dot = new ImageView(context);
                 emptyDot(dot);
 
                 LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(mDotDiameter,
@@ -104,15 +117,15 @@ public class IndicatorDots extends LinearLayout {
         if (mIndicatorType == 0) {
             if (length > 0) {
                 if (length > mPreviousLength) {
-                    fillDot(getChildAt(length - 1));
+                    fillDot((ImageView) getChildAt(length - 1));
                 } else {
-                    emptyDot(getChildAt(length));
+                    emptyDot((ImageView) getChildAt(length));
                 }
                 mPreviousLength = length;
             } else {
                 // When {@code mPinLength} is 0, we need to reset all the views back to empty
                 for (int i = 0; i < getChildCount(); i++) {
-                    View v = getChildAt(i);
+                    ImageView v = (ImageView) getChildAt(i);
                     emptyDot(v);
                 }
                 mPreviousLength = 0;
@@ -120,7 +133,7 @@ public class IndicatorDots extends LinearLayout {
         } else {
             if (length > 0) {
                 if (length > mPreviousLength) {
-                    View dot = new View(getContext());
+                    ImageView dot = new ImageView(getContext());
                     fillDot(dot);
 
                     LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(mDotDiameter,
@@ -140,12 +153,12 @@ public class IndicatorDots extends LinearLayout {
         }
     }
 
-    private void emptyDot(View dot) {
-        dot.setBackgroundResource(mEmptyDrawable);
+    private void emptyDot(ImageView dot) {
+        dot.setImageDrawable(mEmptyDrawable);
     }
 
-    private void fillDot(View dot) {
-        dot.setBackgroundResource(mFillDrawable);
+    private void fillDot(ImageView dot) {
+        dot.setImageDrawable(mFillDrawable);
     }
 
     public int getPinLength() {
@@ -168,5 +181,11 @@ public class IndicatorDots extends LinearLayout {
         this.mIndicatorType = type;
         removeAllViews();
         initView(getContext());
+    }
+
+    public void setPrimaryColor(int primaryColor) {
+        mPrimaryColor = primaryColor;
+        mEmptyDrawable.setStroke(3, primaryColor);
+        mFillDrawable.setColor(primaryColor);
     }
 }

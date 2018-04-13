@@ -23,7 +23,7 @@ public class PinLockView extends RecyclerView {
     private String mPin = "";
     private int mPinLength;
     private int mHorizontalSpacing, mVerticalSpacing;
-    private int mTextColor, mDeleteButtonPressedColor;
+    private int mTextColor, mDeleteButtonPressedColor, mPrimaryColor;
     private int mTextSize, mButtonSize, mDeleteButtonSize;
     private Drawable mButtonBackgroundDrawable;
     private Drawable mDeleteButtonDrawable;
@@ -139,10 +139,12 @@ public class PinLockView extends RecyclerView {
 
         TypedArray typedArray = getContext().obtainStyledAttributes(attributeSet, R.styleable.PinLockView);
 
+
         try {
             mPinLength = typedArray.getInt(R.styleable.PinLockView_pinLength, DEFAULT_PIN_LENGTH);
             mHorizontalSpacing = (int) typedArray.getDimension(R.styleable.PinLockView_keypadHorizontalSpacing, ResourceUtils.getDimensionInPx(getContext(), R.dimen.default_horizontal_spacing));
             mVerticalSpacing = (int) typedArray.getDimension(R.styleable.PinLockView_keypadVerticalSpacing, ResourceUtils.getDimensionInPx(getContext(), R.dimen.default_vertical_spacing));
+            mPrimaryColor = ResourceUtils.getColor(getContext(), R.color.white);
             mTextColor = typedArray.getColor(R.styleable.PinLockView_keypadTextColor, ResourceUtils.getColor(getContext(), R.color.white));
             mTextSize = (int) typedArray.getDimension(R.styleable.PinLockView_keypadTextSize, ResourceUtils.getDimensionInPx(getContext(), R.dimen.default_text_size));
             mButtonSize = (int) typedArray.getDimension(R.styleable.PinLockView_keypadButtonSize, ResourceUtils.getDimensionInPx(getContext(), R.dimen.default_button_size));
@@ -156,6 +158,7 @@ public class PinLockView extends RecyclerView {
         }
 
         mCustomizationOptionsBundle = new CustomizationOptionsBundle();
+        mCustomizationOptionsBundle.setPrimaryColor(mPrimaryColor);
         mCustomizationOptionsBundle.setTextColor(mTextColor);
         mCustomizationOptionsBundle.setTextSize(mTextSize);
         mCustomizationOptionsBundle.setButtonSize(mButtonSize);
@@ -209,6 +212,15 @@ public class PinLockView extends RecyclerView {
 
         if (isIndicatorDotsAttached()) {
             mIndicatorDots.setPinLength(pinLength);
+        }
+    }
+
+    public void setPrimaryColor(int primaryColor) {
+        this.mPrimaryColor = primaryColor;
+        mCustomizationOptionsBundle.setPrimaryColor(primaryColor);
+        mAdapter.notifyDataSetChanged();
+        if (isIndicatorDotsAttached()) {
+            mIndicatorDots.setPrimaryColor(primaryColor);
         }
     }
 
