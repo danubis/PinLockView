@@ -35,7 +35,7 @@ public class IndicatorDots extends LinearLayout {
     private int mDotSpacing;
     private int mFillDrawable;
     private int mEmptyDrawable;
-    private int mPinLength;
+    private int mPinLength = DEFAULT_PIN_LENGTH;
     private int mIndicatorType;
 
     private int mPreviousLength;
@@ -51,17 +51,17 @@ public class IndicatorDots extends LinearLayout {
     public IndicatorDots(Context context, AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
 
-        TypedArray typedArray = context.obtainStyledAttributes(attrs, R.styleable.PinLockView);
+        TypedArray typedArray = context.obtainStyledAttributes(attrs, R.styleable.IndicatorDots);
 
         try {
-            mDotDiameter = (int) typedArray.getDimension(R.styleable.PinLockView_dotDiameter, ResourceUtils.getDimensionInPx(getContext(), R.dimen.default_dot_diameter));
-            mDotSpacing = (int) typedArray.getDimension(R.styleable.PinLockView_dotSpacing, ResourceUtils.getDimensionInPx(getContext(), R.dimen.default_dot_spacing));
-            mFillDrawable = typedArray.getResourceId(R.styleable.PinLockView_dotFilledBackground,
+            mDotDiameter = (int) typedArray.getDimension(R.styleable.IndicatorDots_dotDiameter, ResourceUtils.getDimensionInPx(getContext(), R.dimen.default_dot_diameter));
+            mDotSpacing = (int) typedArray.getDimension(R.styleable.IndicatorDots_dotSpacing, ResourceUtils.getDimensionInPx(getContext(), R.dimen.default_dot_spacing));
+            mFillDrawable = typedArray.getResourceId(R.styleable.IndicatorDots_dotFilledBackground,
                     R.drawable.dot_filled);
-            mEmptyDrawable = typedArray.getResourceId(R.styleable.PinLockView_dotEmptyBackground,
+            mEmptyDrawable = typedArray.getResourceId(R.styleable.IndicatorDots_dotEmptyBackground,
                     R.drawable.dot_empty);
-            mPinLength = typedArray.getInt(R.styleable.PinLockView_pinLength, DEFAULT_PIN_LENGTH);
-            mIndicatorType = typedArray.getInt(R.styleable.PinLockView_indicatorType,
+//            mPinLength = typedArray.getInt(R.styleable.IndicatorDots_pinLength, DEFAULT_PIN_LENGTH);
+            mIndicatorType = typedArray.getInt(R.styleable.IndicatorDots_indicatorType,
                     IndicatorType.FIXED);
         } finally {
             typedArray.recycle();

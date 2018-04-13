@@ -54,6 +54,6 @@ public class SampleActivity extends AppCompatActivity {
         mPinLockView.setPinLength(4);
         mPinLockView.setTextColor(ContextCompat.getColor(this, R.color.white));
 
-        mIndicatorDots.setIndicatorType(IndicatorDots.IndicatorType.FILL_WITH_ANIMATION);
+        mIndicatorDots.setIndicatorType(IndicatorDots.IndicatorType.FIXED);
     }
 }

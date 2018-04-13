@@ -1,0 +1,104 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [:pinlockview] /Users/yiluo/Documents/AndroidProjects/PinLockView/pinlockview/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e56a19b0f51699de6829182effdcd2d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/72b56ebd274256d4c926b4d68becf87c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/306bfa13f6567cb0669589bfe4bfdceb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/406f4a79c5c8c208b33a2dfff198ab4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/97f000df5bca976df6d0407751fd97a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fffea2310bde22ecc692aaa2f5a28ee9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/71cd0f324525772101cc36763042f707/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6d021c6e372f2ebb587e2c444ed9323c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/df89c608d6ea42c4f34ed626ea720cfd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/327870d002d95feeb47e9bff6c34ad91/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dfedb42633f4fe27279ae2b6f70ba577/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/676f2beab4285a0838672458d23b8b5e/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [:pinlockview] /Users/yiluo/Documents/AndroidProjects/PinLockView/pinlockview/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-53
+MERGED from [:pinlockview] /Users/yiluo/Documents/AndroidProjects/PinLockView/pinlockview/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-53
+	android:supportsRtl
+		ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.andrognito.pinlockviewapp.SampleActivity
+ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:12:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml
+MERGED from [:pinlockview] /Users/yiluo/Documents/AndroidProjects/PinLockView/pinlockview/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:pinlockview] /Users/yiluo/Documents/AndroidProjects/PinLockView/pinlockview/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e56a19b0f51699de6829182effdcd2d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e56a19b0f51699de6829182effdcd2d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/72b56ebd274256d4c926b4d68becf87c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/72b56ebd274256d4c926b4d68becf87c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/306bfa13f6567cb0669589bfe4bfdceb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/306bfa13f6567cb0669589bfe4bfdceb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/406f4a79c5c8c208b33a2dfff198ab4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/406f4a79c5c8c208b33a2dfff198ab4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/97f000df5bca976df6d0407751fd97a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/97f000df5bca976df6d0407751fd97a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fffea2310bde22ecc692aaa2f5a28ee9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fffea2310bde22ecc692aaa2f5a28ee9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/71cd0f324525772101cc36763042f707/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/71cd0f324525772101cc36763042f707/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6d021c6e372f2ebb587e2c444ed9323c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6d021c6e372f2ebb587e2c444ed9323c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/df89c608d6ea42c4f34ed626ea720cfd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/df89c608d6ea42c4f34ed626ea720cfd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/327870d002d95feeb47e9bff6c34ad91/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/327870d002d95feeb47e9bff6c34ad91/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dfedb42633f4fe27279ae2b6f70ba577/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dfedb42633f4fe27279ae2b6f70ba577/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/676f2beab4285a0838672458d23b8b5e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/yiluo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/676f2beab4285a0838672458d23b8b5e/AndroidManifest.xml:20:5-44
+INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yiluo/Documents/AndroidProjects/PinLockView/app/src/main/AndroidManifest.xml

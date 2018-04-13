@@ -1,0 +1,4 @@
+#Fri Apr 13 11:09:32 AEST 2018
+base.0=/Users/yiluo/Documents/AndroidProjects/PinLockView/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
